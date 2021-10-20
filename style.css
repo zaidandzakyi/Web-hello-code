@@ -1,0 +1,155 @@
+.bg-image {
+  background-image: url(image/working-code.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+body {
+  position: relative;
+}
+.bi-arrow-left-circle-fill {
+  color: red;
+  padding: 10px;
+}
+.bg-one {
+  background-color: #b8d4d0;
+}
+h1 {
+  font-family: "Rampart One", cursive;
+}
+.link-mee {
+  border-radius: 20px;
+}
+.link-mee a {
+  text-decoration: none;
+  color: red;
+  font-weight: 600;
+  color: white;
+}
+.card:hover {
+  box-shadow: none !important;
+}
+.link-mee a:hover {
+  color: aliceblue;
+}
+h1 {
+  text-align: center;
+}
+.linee {
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.15em;
+  display: inline-block;
+  padding: 15px 20px;
+  position: relative;
+}
+.linee:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #fff;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+.linee:hover:after {
+  width: 100%;
+  left: 0;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+}
+#contact {
+  padding-top: 60px;
+  background-color: lightgray;
+}
+#posts {
+  padding-top: 30px;
+}
+#FAQ {
+  padding-top: 30px;
+}
+#about {
+  padding-top: 100px;
+}
+.nav-item {
+  text-transform: uppercase;
+}
+#about .container {
+  border-radius: 20px;
+}
+.bi-instagram,
+.bi-facebook,
+.bi-twitter,
+.bi-youtube {
+  font-size: 25px;
+  padding: 10px;
+}
+.bi-instagram {
+  color: purple;
+}
+.bi-facebook {
+  color: blue;
+}
+.bi-twitter {
+  color: rgb(98, 98, 255);
+}
+.bi-youtube {
+  color: red;
+}
+.bi-youtube:hover {
+  opacity: 0.25;
+}
+.bi-instagram:hover {
+  opacity: 0.25;
+}
+.bi-facebook:hover {
+  opacity: 0.25;
+}
+.bi-twitter:hover {
+  opacity: 0.25;
+}
+.bg-dan {
+  background-color: #994106;
+}
+.sosmed-ft .bi-instagram,
+.sosmed-ft .bi-facebook,
+.sosmed-ft .bi-twitter,
+.sosmed-ft .bi-youtube {
+  font-size: 20px;
+  padding: 10px;
+  color: #fff;
+}
+.bi-house-fill,
+.bi-envelope-fill,
+.bi-whatsapp {
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+}
+#credit .btn a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+}
+.bi-arrow-left-circle-fill {
+  color: #fff;
+}
+#credit button:hover {
+  box-shadow: none !important;
+}
+#credit h1 {
+  color: red;
+}
+#credit ul li a {
+  text-decoration: none;
+}
+#credit .images ul {
+  list-style-type: none;
+  text-align: center;
+}
