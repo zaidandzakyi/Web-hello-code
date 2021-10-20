@@ -1,7 +1,13 @@
+# Hello Code
+
 Hello Code
-adalah web yang dibuat untuk percobaan Framework bootstrap
+
+Hello code adalah web yang dibuat untuk percobaan Framework bootstrap
+
 Pemilik : Zaidan
+
 web dibuat dengan :
--html
--css
--bootstrap
+
+- html
+- css
+- bootstrap
